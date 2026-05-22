@@ -244,6 +244,8 @@ This project was built to practice:
 - Real-world Web3 engineering patterns
 
 ---
+# License
 
+MIT
 
 
