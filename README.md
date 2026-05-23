@@ -241,7 +241,7 @@ This project was built to practice:
 - Secure ETH handling
 - Protocol state management
 - Chainlink integration
-- Real-world Web3 engineering patterns
+- Real-world Web3 engineering patterns.
 
 ---
 # License
